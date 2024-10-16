@@ -1,0 +1,7 @@
+C:\Users\Daffa\source\repos\GSLC\GSLC\bin\Debug\GSLC.exe.config
+C:\Users\Daffa\source\repos\GSLC\GSLC\bin\Debug\GSLC.exe
+C:\Users\Daffa\source\repos\GSLC\GSLC\bin\Debug\GSLC.pdb
+C:\Users\Daffa\source\repos\GSLC\GSLC\obj\Debug\GSLC.csproj.AssemblyReference.cache
+C:\Users\Daffa\source\repos\GSLC\GSLC\obj\Debug\GSLC.csproj.CoreCompileInputs.cache
+C:\Users\Daffa\source\repos\GSLC\GSLC\obj\Debug\GSLC.exe
+C:\Users\Daffa\source\repos\GSLC\GSLC\obj\Debug\GSLC.pdb
